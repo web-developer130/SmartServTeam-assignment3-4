@@ -1,6 +1,6 @@
 # SmartServTeam-assignment3-4
 
-
+our site is ready to be published at https://web-developer130.github.io/SmartServTeam-assignment3-4/
 3. Create a basic frontend of a login dashboard with the below mentioned  functionality
 The login page should look like below :
 The user name field should only accept an email format. The validation should happen through Javascript.
