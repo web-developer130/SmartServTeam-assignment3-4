@@ -1,29 +1,4 @@
-let graph2=document.getElementById('graphpie').getContext('2d');
-let masspop= new Chart(graph2, {
-        type:'doughnut',
-        data:{
-          labels:['0','1','2','3','4','5','6','7','8','9','10','11','12','13','14','15','16','17','18','19','20'],
-          datasets:[{
-            data:[
-             0,
-             100
-            ],
-            backgroundColor:'#71BE58',
-            hoverBorderWidth:3,
-            hoverBorderColor:'white'
-          }]
-        },
-        options:{
-          title:{
-            display:true,
-            text:'Revenue Generated VS Revenue Missed',
-            fontSize: 18
-          },
-          legend:{
-            display:false
-          }
-        }
-      });
+
 
       function CheckPassword(inputtxt) 
       { 
